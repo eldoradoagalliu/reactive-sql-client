@@ -7,6 +7,7 @@ import jakarta.annotation.PostConstruct;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.Response;
+import org.quarkus.model.Movie;
 
 import java.net.URI;
 

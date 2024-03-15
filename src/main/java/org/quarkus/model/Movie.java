@@ -1,4 +1,4 @@
-package org.quarkus;
+package org.quarkus.model;
 
 import io.smallrye.mutiny.Multi;
 import io.smallrye.mutiny.Uni;
